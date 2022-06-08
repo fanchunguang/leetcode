@@ -1,4 +1,4 @@
-package com.leetcode.sharding.algorithm;
+package com.leetcode.sharding.algorithm.other;
 
 /**
  * 给定一个正整数数组 nums和一个整数 k，返回 num中 「好子数组」的数目。
